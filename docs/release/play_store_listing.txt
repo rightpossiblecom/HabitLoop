@@ -1,0 +1,23 @@
+App Name: HabitLoop
+Short Description (80 chars max):
+Track one daily habit. Simple streak tracker to maintain daily consistency.
+
+Full Description (4000 chars max):
+HabitLoop is a minimal daily habit app where users commit to one simple action per day and track their consistency through a clean, reliable streak counter.
+
+HabitLoop is designed around a single philosophy: Focus on what matters. Multi-tasking destroys momentum. By limiting your focus to one core habit at a time, you build lasting identity changes through simple daily repetition.
+
+Features:
+- Set one specific daily action (e.g., "Read for 10 minutes", "Drink water")
+- Tap to mark your daily goal as Completed
+- Maintain and grow your daily streak
+- View a simple history timeline of your progress
+- Fully local storage ensuring 100% privacy
+- Dark mode support built-in
+
+There are no accounts, no cloud tracking, and no complicated systems. Just you and your single daily goal.
+
+One habit. Every day.
+
+Privacy Policy:
+We do not collect any personal data. All information is stored locally on your device.

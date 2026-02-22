@@ -3,6 +3,7 @@
 # HabitLoop – Simple App Plan
 
 ## 1️⃣ App Goal
+app url https://habit-loop-pearl.vercel.app/privacy-policy
 
 HabitLoop is a minimal daily habit app where users commit to **one simple action per day** and track their consistency through a streak counter.
 
